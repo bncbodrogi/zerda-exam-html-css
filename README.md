@@ -81,7 +81,7 @@ Add your answer to this readme file, commit your changes to this repository.
 </html>
 ```
 #### Your answer: [2p]
-
+The yellow boxes top left corner is 40px from the top and 40px from the left of the documant body as ther is 20px positioning set in each divs and there is no additional margin or padding on top of that.
 
 ## 3. Explain concepts (~15 minutes) [4 points]
 Add your answer to this readme file, commit your changes to this repository.
