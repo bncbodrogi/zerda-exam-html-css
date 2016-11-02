@@ -25,6 +25,7 @@ section, article {
   display: flex;
   flex-flow: row;
   width: 600px;
+  position: relative;
 }
 
 .data {
@@ -38,4 +39,19 @@ table {
 
 th {
   width: 120px;
+}
+
+.icon {
+  position: absolute;
+  left: 545px;
+  bottom: 45px;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 14px;
 }
