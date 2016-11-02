@@ -95,5 +95,5 @@ The main difference between them is the way the elements with the specified prop
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
 
-An article makse sense on its own, it is an individual self defining part of the site, it is more important, has more weigth than a section. Both are very similar in terms of default style, but the article is the one with the spot light on, a section is more like the John Snow of the Stark family (in the first season)
-need to be decribed as something or something else, needs to have a heading or a label.
+An article makes sense on its own, it is an individual self defining part of the site, it is more important, has more weigth than a section. Both are very similar in terms of default style, but the article is the one with the spot light on, a section is more like the John Snow of the Stark family (in the first season)
+need to be decribed as something (or something else), needs to have a heading or a label.
