@@ -1,0 +1,32 @@
+body{
+  display: flex;
+  flex-flow: column;
+}
+
+aside {
+  margin: 0;
+}
+
+.duckpic {
+  border-right: 20px solid #546294;
+  height: 100%;
+}
+
+.manduck {
+  background-color: #fffff0;
+}
+
+.ladyduck {
+  background-color: #abb7e0;
+}
+
+section, article {
+  margin: 0 auto 10px auto;
+  display: flex;
+  flex-flow: row;
+  width: 600px;
+}
+
+.data {
+  font-family: Arial, sans-serif;
+}
