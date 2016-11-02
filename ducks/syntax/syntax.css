@@ -21,7 +21,7 @@ aside {
 }
 
 section, article {
-  margin: 0 auto 10px auto;
+  margin: 0 auto 20px auto;
   display: flex;
   flex-flow: row;
   width: 600px;
@@ -29,4 +29,13 @@ section, article {
 
 .data {
   font-family: Arial, sans-serif;
+  padding-left: 10px;
+}
+
+table {
+  text-align: left;
+}
+
+th {
+  width: 120px;
 }
